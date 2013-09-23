@@ -1,4 +1,4 @@
-weeklyapp.github.io
+weeklyapps.github.io
 ===================
 
 Weekly Apps Developed by Clint and Robert
